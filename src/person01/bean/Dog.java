@@ -27,6 +27,7 @@ public class Dog {
 	public void hello() {
 		
 		System.err.println("我是小白");
+		System.out.println("我是小黑");
 		
 	}
 	
